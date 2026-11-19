@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aditi Sharma! 👋
 
-<!--
-**aditisharma276/aditisharma276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year CSE Student at IIIT Agartala.
 
-Here are some ideas to get you started:
+💻 Currently learning C Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Academic exposure to Python and Java.
+
+🌱 Exploring Computer Science and Artificial Intelligence.
+
+📚 Interested in programming and problem-solving.
+
+## Currently Focusing On
+- Strengthening programming fundamentals.
+- Learning new technologies.
+- Improving problem-solving skills.
